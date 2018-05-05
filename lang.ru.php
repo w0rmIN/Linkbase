@@ -2,11 +2,11 @@
 // Global
 $lang['site_error_backText']        = 'назад';
 $lang['site_403_errorText']         = 'К сожалению, у вас нет разрешения на доступ к этому сайту.';
-$lang['site_404_errorText']         = 'К сожалению! К сожалению, эта страница не найдена.';
+$lang['site_404_errorText']         = 'К сожалению, эта страница не найдена.';
 $lang['site_500_errorText']         = 'Извините, произошла внутренняя ошибка.';
 // Navigation
 $lang['navigation_toggle']          = 'Переключить навигацию';
-$lang['navigation_home']            = 'дома';
+$lang['navigation_home']            = 'домой';
 // NavigationSub
 $lang['navigation_boards']          = 'форумы';
 $lang['navigation_boards_all']      = 'Все форумы';
@@ -17,26 +17,26 @@ $lang['navigation_boards_i2p']      = 'Только I2P';
 $lang['navigation_blogs']           = 'Блоги';
 $lang['navigation_shops']           = 'Магазины';
 $lang['navigation_warez']           = 'варез';
-$lang['navigation_useful']          = 'полезным';
+$lang['navigation_useful']          = 'полезные';
 $lang['navigation_vpn']             = 'VPN';
 $lang['navigation_hosting']         = 'Хостинг';
 $lang['navigation_addLink']         = 'Добавить ссылку';
-$lang['navigation_last5Added']      = 'Показывать недавно 15 обновленных ссылок (RSS)';
+$lang['navigation_last5Added']      = 'Показывать 15 недавно обновленных ссылок (RSS)';
 // NavigationSub
 $lang['navigation_information']                       = 'Информация';
-$lang['navigation_information_contact']               = 'контакт';
-$lang['navigation_information_donate']                = 'жертвовать';
-$lang['navigation_information_pricing']               = 'ценообразование';
-$lang['navigation_information_linkUs']                = 'Связать с нами';
+$lang['navigation_information_contact']               = 'контакты';
+$lang['navigation_information_donate']                = 'помощь проекту';
+$lang['navigation_information_pricing']               = 'цены';
+$lang['navigation_information_linkUs']                = 'Обратная связь';
 $lang['navigation_information_misc']                  = 'Разное';
-$lang['navigation_information_misc_changelog']        = 'Изменения';
+$lang['navigation_information_misc_changelog']        = 'Обновления';
 $lang['navigation_information_misc_api']              = 'API';
 $lang['navigation_information_misc_faq']              = 'Вопросы-Ответы';
 $lang['navigation_information_misc_rssAdded']         = 'RSS [добавленной]';
 $lang['navigation_information_misc_rssUpdated']       = 'RSS [обновленный]';
 $lang['navigation_information_misc_siteUptime']       = 'сайт Провел';
 // Breadcrumbs
-$lang['navigation_breadcrumb_home']       = 'дома';
+$lang['navigation_breadcrumb_home']       = 'домой';
 $lang['navigation_breadcrumb_noFraud']    = 'Показать только немощные доски';
 $lang['navigation_breadcrumb_tor']        = 'Показать только Доски Tor';
 $lang['navigation_breadcrumb_i2p']        = 'Показать только Доски I2P';
